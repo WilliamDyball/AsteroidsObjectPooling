@@ -1,20 +1,4 @@
 Anything not created by me is in the Third party folder. All art assets and Text mesh pro imported as I prefer how that looks compared to the default text.
-
-Asteroid pool and Bullet pool contain the object pools for the corresponding objects.
-Created a pool for each so there can be different asteroid or bullet types added with different pools.
-Singleton pattern implemented on pools and the GameManager to refernce them from other scripts.
-
-
-Future additions:
-	-Powerups spawn from asteroids
-		-Immunity (Partially implemented)
-		-Multishot
-		-Laser shot
-		-Bombs
-		-Extra lives
-	-Scoreboard 
-		-Local highscore is stored using player prefs
-
 Models: https://assetstore.unity.com/packages/3d/vehicles/space/star-sparrow-modular-spaceship-73167
 Background: https://assetstore.unity.com/packages/2d/textures-materials/dynamic-space-background-lite-104606
 
